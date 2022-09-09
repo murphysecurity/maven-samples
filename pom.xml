@@ -7,22 +7,7 @@
     <version>1.0-SNAPSHOT</version>
     <name>app</name>
     <dependencies>
-
-        <dependency>
-            <groupId>com.github.penggle</groupId>
-            <artifactId>kaptcha</artifactId>
-            <version>2.3.2</version>
-        </dependency>
-        <dependency>
-            <groupId>com.atlassian.commonmark</groupId>
-            <artifactId>commonmark</artifactId>
-            <version>0.8.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.atlassian.commonmark</groupId>
-            <artifactId>commonmark-ext-gfm-tables</artifactId>
-            <version>0.8.0</version>
-        </dependency>
+        
         <dependency>
             <groupId>org.apache.activemq</groupId>
             <artifactId>activemq-all</artifactId>
@@ -42,11 +27,7 @@
             <version>1.7.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.apache.activemq</groupId>
-            <artifactId>activemq-all</artifactId>
-            <version>5.15.6</version>
-        </dependency>
+
 
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
@@ -54,12 +35,6 @@
             <version>9.3.24.v20180605</version>
         </dependency>
 
-
-        <dependency>
-            <groupId>com.fasterxml.jackson.core</groupId>
-            <artifactId>jackson-databind</artifactId>
-            <version>2.8.10</version>
-        </dependency>
 
         <dependency>
             <groupId>com.thoughtworks.xstream</groupId>
@@ -71,12 +46,6 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.24</version>
-        </dependency>
-
-        <dependency>
-            <groupId>org.apache.shenyu</groupId>
-            <artifactId>shenyu-admin</artifactId>
-            <version>2.4.1</version>
         </dependency>
 
         <dependency>
